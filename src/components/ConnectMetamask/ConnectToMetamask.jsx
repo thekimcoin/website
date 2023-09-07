@@ -33,7 +33,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
     <div>
       <div className="jumbotron">
         <h1 className="display-5">
-          TheKimCoin.com
+          KimCoinEth.com
         </h1>
         <hr className="my-4" />
         Kim: The Ultimate Meme - From Kardashian to Kim Supreme!
