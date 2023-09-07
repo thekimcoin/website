@@ -35,7 +35,7 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <h1 className="display-5">
           TheKimCoin.com
         </h1>
-        <HR>
+        <hr className="my-4" />
         Kim: The Ultimate Meme - From Kardashian to Kim Supreme!
         <hr className="my-4" />
         Contract Address: 0x76781b0bb41ebcd1f27327b2474b834dbcd6e6b4
