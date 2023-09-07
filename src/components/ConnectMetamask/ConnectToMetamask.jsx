@@ -40,6 +40,8 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <hr className="my-4" />
         Contract Address: 0x76781b0bb41ebcd1f27327b2474b834dbcd6e6b4
         <hr className="my-4" />
+        Contact: kimtokenteam@gmail.com
+        <hr className="my-4" />
         <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x9d906c016d36d1068570d4503388154a47109526" >
           <img src="images/logo.png" width="100%" alt="Bnetly" />
         </a>
