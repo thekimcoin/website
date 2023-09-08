@@ -40,6 +40,10 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <hr className="my-4" />
         Contract Address: 0x76781b0bb41ebcd1f27327b2474b834dbcd6e6b4
         <hr className="my-4" />
+        Snort  
+        <hr className="my-4" />
+        Contract Address: 0xf78b6aee66082f9d5affce3723e56f35189a638e
+        <hr className="my-4" />
         Contact: kimtokenteam@gmail.com
         <hr className="my-4" />
         <a href="https://www.dextools.io/app/en/ether/pair-explorer/0x9d906c016d36d1068570d4503388154a47109526" >
